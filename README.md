@@ -39,9 +39,13 @@ breaking changes.
 I totally love vagrant and virtual box on my macbook pro. I have 7-8 vms with private networking and play around
 setting up different infrastructure components beyond sensu such as graphite (using synthesize), ELK + filebeat, mesos + singularity
 Postgres cluster, Rabbitmq cluster, Redis cluster being haproxy and many more OSS.
-At Opentable, I have used foreman for spinning up vms.
+Experience with deploying and scaling web services on virtual infrastructur using mesos and singularity.
 Have basic understanding of VMWare and using Vsphere Web to bump up server resources.
 I have good experience writing Puppet code using hiera and roles/profiles to manage Infrastructure environments.
 I simply love diving in source code of the project and reading test cases during issues or for understanding the product.
 
+
+
+Responsible for participating in scheduled detailed information gathering sessions with the development and support teams to provide feedback on direction and impact on the infrastructure
+Take an active role in formulating the long-range technical infrastructure and architecture plans
 
